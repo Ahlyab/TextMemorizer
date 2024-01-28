@@ -156,7 +156,6 @@ public class MainActivity extends AppCompatActivity {
         if (cursor.moveToFirst()) {
             do {
                 String item = cursor.getString(cursor.getColumnIndex(DatabaseHelper.COLUMN_ITEM));
-//                insertAtFront(itemList, item);
                 itemList.add(item);
             } while (cursor.moveToNext());
         }
