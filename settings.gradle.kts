@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ClipBoardManager"
+rootProject.name = "CBMTESTING"
 include(":app")

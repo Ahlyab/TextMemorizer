@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aclonica</item>
+        <item>@font/acme</item>
+        <item>@font/actor</item>
+        <item>@font/akronim</item>
+        <item>@font/alice</item>
+        <item>@font/amatica_sc_bold</item>
+        <item>@font/antic</item>
+        <item>@font/nanum_pen_script</item>
+        <item>@font/sarina</item>
+        <item>@font/satisfy</item>
+        <item>@font/single_day</item>
+    </array>
+</resources>

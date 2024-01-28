@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">ClipBoardManager</string>
+    <string name="app_name">Text Memorizer</string>
+    <string name="title_activity_add_item">add_item</string>
 </resources>

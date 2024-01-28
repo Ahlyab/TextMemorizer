@@ -1,4 +1,4 @@
-package com.example.clipboardmanager;
+package com.example.cbmtesting;
 
 import org.junit.Test;
 
